@@ -1,0 +1,41 @@
+---
+title: "SynBio6.0"
+description: |
+  **6th Annual Synthetic Biology Symposium**
+site: distill::distill_website
+---
+
+<div class="center-text"">
+**SynBio6.0 (May 16-17, 2024)** aims to bring the research community together to celebrate Canadian progress in this exciting and fast-growing field. The goal of this event it to promote collaborations and the exchange of ideas between synthetic biology research groups in Canada. 
+
+<br>
+
+This event provides a forum for our trainees to develop their skills in the science and business of synthetic biology. Trainees are invited to attend tutorial workshops, participate in discussion of synthetic biology training programs, to present their work through oral and poster presentations, and to network with other synbio researchers.
+
+</div>
+
+<br> 
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/synbio.png")
+```
+
+<div class="center-text"">
+<a href="registration.html" class="register-button">Register →</a>
+</div>
+
+<br>
+
+<div class="center-text">
+## Venue
+
+6133 University Blvd, UBC, Vancouver, BC V6T 1Z1
+</div>
+
+
+```{r, echo=FALSE, layout="l-screen-inset shaded"}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-123.249804, lat=49.266421, popup="6133 University Blvd, UBC, Vancouver, BC")
+```
