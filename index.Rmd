@@ -1,17 +1,18 @@
 ---
 title: "SynBio6.0"
 description: |
-  **6th Annual Synthetic Biology Symposium**
+  **6th Annual Synthetic Biology Symposium**  
+  May 16-17, 2024, Vancouver, BC, Canada
 site: distill::distill_website
 ---
 
 <style type="text/css">
 
-h1.title {
+.d-title h1 {
   text-align: center;
 }
 
-h3.description {
+.d-title p {
   text-align: center;
 }
 
