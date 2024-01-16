@@ -8,12 +8,13 @@ site: distill::distill_website
 
 <style type="text/css">
 
-.d-title h1 {
-  text-align: center;
-}
 
-.d-title p {
-  text-align: center;
+.d-title {
+  background-image: url("images/ubc.jpg");
+  background-size: cover; /* Cover the entire area */
+  background-position: center; /* Center the background image */
+  color: white;  /* Adjust text color for better visibility */
+  text-align: center; /* Center the text */
 }
 
 </style>
@@ -31,7 +32,7 @@ This event provides a forum for our trainees to develop their skills in the scie
 <br> 
 
 ```{r, echo=FALSE}
-knitr::include_graphics("images/ubc.jpg")
+knitr::include_graphics("images/synbio.png")
 ```
 
 <div class="center-text"">
