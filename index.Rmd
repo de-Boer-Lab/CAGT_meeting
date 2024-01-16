@@ -5,7 +5,20 @@ description: |
 site: distill::distill_website
 ---
 
-<div class="center-text"">
+<style type="text/css">
+
+h1.title {
+  text-align: center;
+}
+
+h3.description {
+  text-align: center;
+}
+
+</style>
+
+<div class="center-text">
+
 **SynBio6.0 (May 16-17, 2024)** aims to bring the research community together to celebrate Canadian progress in this exciting and fast-growing field. The goal of this event it to promote collaborations and the exchange of ideas between synthetic biology research groups in Canada. 
 
 <br>
