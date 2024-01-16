@@ -1,0 +1,48 @@
+---
+title: "Sponsors"
+---
+
+# Platinum
+
+<div class="organizers-container">
+<div class="organizer-profile">
+  ![](images/sbme.jpg)
+  <h3><a href="https://bme.ubc.ca/" target="_blank">SBME</a></h3>
+</div>
+
+</div>
+
+
+# Gold
+
+<div class="organizers-container">
+<div class="organizer-profile">
+  ![](images/avatar.jpeg)
+  <h3><a href="" target="_blank">Sponsor 1</a></h3>
+</div>
+
+</div>
+
+# Silver
+
+<div class="organizers-container">
+<div class="organizer-profile">
+  ![](images/avatar.jpeg)
+  <h3><a href="" target="_blank">Sponsor 2</a></h3>
+</div>
+
+</div>
+
+# Bronze
+
+<div class="organizers-container">
+<div class="organizer-profile">
+  ![](images/avatar.jpeg)
+  <h3><a href="2" target="_blank">Sponsor 3</a></h3>
+</div>
+
+</div>
+
+
+
+

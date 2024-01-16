@@ -12,6 +12,8 @@ navbar:
       href: people.html
     - text: "Registration"
       href: registration.html
+    - text: "Sponsors"
+      href: sponsors.html
 
 output:
   distill::distill_article:
