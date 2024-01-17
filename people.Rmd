@@ -9,7 +9,7 @@ title: "People"
 <div class="organizer-profile">
   ![](images/pulin.jpeg)
   <h3><a href="https://lilab.wi.mit.edu/" target="_blank">Pulin Li</a></h3>
-  Associate Professor
+  Professor
   <br>
   Whitehead Institute, MIT
 </div>
@@ -29,6 +29,14 @@ title: "People"
   <br>
   MIT
 </div>
+
+<div class="organizer-profile">
+  ![](images/avatar.jpeg)
+  <h3><a href="" target="_blank">Keynote 4</a></h3>
+  TBA
+  <br>
+  TBA
+</div>
 </div>
 
 # Organizers
@@ -40,6 +48,9 @@ title: "People"
   Assistant Professor
   <br>
   UBC
+  <div class="social-icons">
+  <a href="mailto:carl.deboer@ubc.ca"><i class="fas fa-envelope"></i></a>
+  </div>
 </div>
 
 <div class="organizer-profile">
@@ -48,6 +59,9 @@ title: "People"
   Assistant Professor
   <br>
   UBC
+  <div class="social-icons">
+  <a href="mailto:nika.shakiba@ubc.ca"><i class="fas fa-envelope"></i></a>
+  </div>
 </div>
 
 <div class="organizer-profile">
@@ -56,7 +70,9 @@ title: "People"
   Associate Professor
   <br>
   UBC
-
+  <div class="social-icons">
+  <a href="mailto:nozomu.yachie@ubc.ca"><i class="fas fa-envelope"></i></a>
+  </div>
 </div>
 
 <div class="organizer-profile">
@@ -65,6 +81,9 @@ title: "People"
   Graduate Student
   <br>
   UBC
+  <div class="social-icons">
+  <a href="mailto:rafi11@student.ubc.ca"><i class="fas fa-envelope"></i></a>
+  </div>
 </div>
 
 <div class="organizer-profile">
@@ -73,6 +92,9 @@ title: "People"
   Graduate Student
   <br>
   UBC
+  <div class="social-icons">
+  <a href="mailto:asfar.lathif@ubc.ca"><i class="fas fa-envelope"></i></a>
+  </div>
 </div>
 
 <div class="organizer-profile">
@@ -81,6 +103,9 @@ title: "People"
   Graduate Student
   <br>
   UBC
+  <div class="social-icons">
+  <a href="mailto:wcheney@student.ubc.ca"><i class="fas fa-envelope"></i></a>
+  </div>
 </div>
 </div>
 
