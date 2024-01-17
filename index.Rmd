@@ -41,6 +41,10 @@ knitr::include_graphics("images/synbio.png")
 
 <br>
 
+<div class="center-text"">
+<a href="people.html" class="register-button">Keynote Speakers →</a>
+</div>
+
 <div class="center-text">
 ## Venue
 
