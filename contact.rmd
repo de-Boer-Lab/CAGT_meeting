@@ -8,6 +8,6 @@ htmltools::includeHTML("contact.html")
 ```
 
 
-
+or send us an email at <b><a href="synbio.6@ubc.ca">synbio.6@ubc.ca</a></b>
 
 
