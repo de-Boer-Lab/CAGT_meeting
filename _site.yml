@@ -14,6 +14,8 @@ navbar:
       href: registration.html
     - text: "Sponsors"
       href: sponsors.html
+    - text: "Contact Us"
+      href: contact.html     
 
 output:
   distill::distill_article:
