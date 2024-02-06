@@ -2,11 +2,25 @@
 title: "Contact Us"
 ---
 
-```{r, echo=FALSE}
-
-htmltools::includeHTML("contact.html")
-```
-
+<div class="form-container">
+  <form action="https://formspree.io/f/xoqgennd" method="POST">
+    
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" placeholder="Your name..">
+    
+    <label for="email">Email</label>
+    <input type="text" id="email" name="email" placeholder="Your email address..">
+      
+    <label for="subject">Subject</label>
+    <input type="text" id="subject" name="subject" placeholder="Subject">
+                
+    <label for="message">Message</label>
+    <textarea id="message" name="message" placeholder="Your message.." style="height:200px"></textarea>
+  
+    <input type="submit" value="Submit">
+  
+  </form>
+</div>
 
 or send us an email at <b><a href="synbio.6@ubc.ca">synbio.6@ubc.ca</a></b>
 
