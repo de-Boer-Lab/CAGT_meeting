@@ -4,7 +4,23 @@ title: "Registration"
 
 Stay Tuned...
 
+::: center-text
+<h3>Important Dates</h3>
 
+|                                  |       Date        |
+|----------------------------------|:-----------------:|
+| **Early Registration Ends**      |                   |
+| **Late Registration Ends**       |                   |
+| **Abstract Submission Deadline** |                   |
+| **Abstract Status Notification** |                   |
+| **Conference Begins**            | **May 16th 2024** |
+| **Conference Ends**              | **May 17th 2024** |
+:::
 
+## Abstract Submission:
 
+All attendees are encouraged to submit abstracts. You can see the submission deadlines along with other important dates above.You will receive an email after registering for the conference with instructions regarding online abstract submission. Abstracts are limited to \~2900 characters. Attendees will be notified regarding their abstract status two weeks before the conference. Selected presenters will also be notified if they have been chosen to give a 15 minutes oral presentation in addition to poster presentation.
 
+## Poster Guidelines:
+
+TBA
