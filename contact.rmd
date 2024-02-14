@@ -2,26 +2,21 @@
 title: "Contact Us"
 ---
 
-<div class="form-container">
-  <form action="https://formspree.io/f/xoqgennd" method="POST">
-    
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" placeholder="Your name..">
-    
-    <label for="email">Email</label>
-    <input type="text" id="email" name="email" placeholder="Your email address..">
-      
-    <label for="subject">Subject</label>
-    <input type="text" id="subject" name="subject" placeholder="Subject">
-                
-    <label for="message">Message</label>
-    <textarea id="message" name="message" placeholder="Your message.." style="height:200px"></textarea>
-  
-    <input type="submit" value="Submit">
-  
-  </form>
+```{r, echo=FALSE}
+knitr::include_graphics("images/synbio.png")
+```
+
+If you have any queries please contact one of the [organisers](people.html#organizers) or send us an email at <b><a href="mailto:synbio.6@ubc.ca">synbio.6@ubc.ca</a></b>
+
+<div class="center-text">
+## Venue
+
+AMS Student Nest, 6133 University Blvd, UBC, Vancouver, BC V6T 1Z1
 </div>
 
-or send us an email at <b><a href="mailto:synbio.6@ubc.ca">synbio.6@ubc.ca</a></b>
-
-
+```{r, echo=FALSE, layout="l-screen-inset shaded"}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-123.249804, lat=49.266421, popup="6133 University Blvd, UBC, Vancouver, BC")
+```

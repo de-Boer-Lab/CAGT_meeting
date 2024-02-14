@@ -38,7 +38,7 @@ title: "People"
 </div>
 </div>
 
-# Organizers
+# Organizers {#organizers}
 
 <div class="organizers-container">
 <div class="organizer-profile">

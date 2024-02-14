@@ -1,8 +1,14 @@
 ---
 title: "Registration"
 ---
-
-Stay Tuned...
+<div class="center-text">
+<p style="margin-top: 20px; font-size: 30px;">
+    Register now at 
+    <a href="https://ubc.ungerboeck.net/prod/emc00/register.aspx?aat=4f574970714f535370316839566d35425736627675624766354b7737395a4364592b443268586d796e396b3d" style="color: #133E67; font-weight: bold;">
+        this link
+    </a>
+</p>
+</div>
 
 ::: center-text
 <h3>Important Dates</h3>
@@ -17,10 +23,14 @@ Stay Tuned...
 
 ## Abstract Submission:
 
-All attendees are encouraged to submit abstracts. You can see the submission deadlines along with other important dates above. Abstracts are limited to \~2900 characters. Attendees will be notified regarding their abstract status a week after the submission deadline. Selected presenters will also be notified if they have been chosen to give a 15 minutes oral presentation in addition to poster presentation.
+<div class="center-text" style="font-size: 30px;">
 
-Abstracts can be submitted [here](<https://forms.gle/ZpVNQsiWAWdBJN4f9>)
+Abstracts can be submitted  <a href="https://forms.gle/ZpVNQsiWAWdBJN4f9" style="color: #133E67; font-weight: bold; "> here </a>
+</div>
 
-## Poster Guidelines:
+All attendees are encouraged to submit abstracts. You can see the submission deadlines along with other important dates above. Abstracts are limited to \~2900 characters. Attendees will be notified regarding their abstract status a week after the submission deadline. Selected presenters will also be notified if they have been chosen to give a 15 minutes oral presentation in addition to poster presentation. **Abstract submission deadline is April 17th 2024**. Please make sure to register before submitting the abstract
 
-TBA
+
+## Accomodation:
+
+Exclusive accommodation options are available on the UBC Campus for conference attendees. These selected accommodations ensure a comfortable and convenient stay. For booking and payment, attendees can access the reservation through this **[link](https://reserve.suitesatubc.com/vancouver/availability.asp?hotelCode=%2A&startDate=05%2F15%2F2024&endDate=05%2F18%2F2024&adults=1&children=&rooms=1&requesttype=invBlockCode&code=G240515B%20)**.

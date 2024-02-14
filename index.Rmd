@@ -23,7 +23,40 @@ site: distill::distill_website
 
 **SynBio6.0 (May 16-17, 2024)** aims to bring the research community together to celebrate Canadian progress in this exciting and fast-growing field. The goal of this event it to promote collaborations and the exchange of ideas between synthetic biology research groups in Canada. 
 
-<br>
+# Keynote Speakers
+
+<div class="organizers-container">
+<div class="organizer-profile">
+  ![](images/leo.jpg)
+  <h3><a href="https://www.sanger.ac.uk/group/parts-group/" target="_blank">Leopold Parts</a></h3>
+  Group Lead
+  <br>
+  Wellcome Sanger Institute
+</div>
+<div class="organizer-profile">
+  ![](images/pulin.png)
+  <h3><a href="https://lilab.wi.mit.edu/" target="_blank">Pulin Li</a></h3>
+  Professor
+  <br>
+  Whitehead Institute, MIT
+</div>
+
+<div class="organizer-profile">
+  ![](images/shapiro.jpg)
+  <h3><a href="http://www.theshapirolab.com/" target="_blank">Rebecca Shapiro</a></h3>
+  Associate Professor
+  <br>
+  University of Guelph
+</div>
+
+<div class="organizer-profile">
+  ![](images/ron.jpeg)
+  <h3><a href="weiss-lab.mit.edu" target="_blank">Ron Weiss</a></h3>
+  Professor
+  <br>
+  MIT
+</div>
+</div>
 
 This event provides a forum for our trainees to develop their skills in the science and business of synthetic biology. Trainees are invited to attend tutorial workshops, participate in discussion of synthetic biology training programs, to present their work through oral and poster presentations, and to network with other synbio researchers.
 
@@ -31,19 +64,20 @@ This event provides a forum for our trainees to develop their skills in the scie
 
 <br> 
 
-```{r, echo=FALSE}
-knitr::include_graphics("images/synbio.png")
-```
-
 <div class="center-text"">
-<a href="registration.html" class="register-button">Register →</a>
+<a href="registration.html" class="register-button">Register and Present →</a>
 </div>
 
-<br>
+::: center-text
+<h3>Important Dates</h3>
 
-<div class="center-text"">
-<a href="people.html" class="register-button">Keynote Speakers →</a>
-</div>
+|                                  |             Date             |
+|----------------------------------|:----------------------------:|
+| **Registration Opens**           |    **February 12th 2024**    |
+| **Registration Ends**            |       **May 9th 2024**       |
+| **Abstract Submission Deadline** |     **April 17th 2024**      |
+| **Conference**                   | **May 16th - May 17th 2024** |
+:::
 
 <div class="center-text">
 ## Venue
