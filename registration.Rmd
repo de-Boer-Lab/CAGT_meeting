@@ -1,6 +1,8 @@
 ---
 title: "Registration"
 ---
+Join us for Synbio 6.0 by securing your spot today. The registration fee of **210 CAD** provides you with full access to the conference sessions, materials, networking and meals.
+
 <div class="center-text">
 <p style="margin-top: 20px; font-size: 30px;">
     Register now at 
@@ -21,6 +23,7 @@ title: "Registration"
 | **Conference**                   | **May 16th - May 17th 2024** |
 :::
 
+
 ## Abstract Submission:
 
 <div class="center-text" style="font-size: 30px;">
@@ -34,3 +37,7 @@ All attendees are encouraged to submit abstracts. You can see the submission dea
 ## Accomodation:
 
 Exclusive accommodation options are available on the UBC Campus for conference attendees. These selected accommodations ensure a comfortable and convenient stay. For booking and payment, attendees can access the reservation through this **[link](https://reserve.suitesatubc.com/vancouver/availability.asp?hotelCode=%2A&startDate=05%2F15%2F2024&endDate=05%2F18%2F2024&adults=1&children=&rooms=1&requesttype=invBlockCode&code=G240515B%20)**.
+
+## Cancellation Policy
+
+Attendees can get a full refund if they cancel over 60 days before the conference. Cancellations made between 30 to 60 days prior are eligible for a 50% refund. No refunds are provided for cancellations within 30 days of the event. All cancellation refunds incur a 35 CAD administrative charge. 
