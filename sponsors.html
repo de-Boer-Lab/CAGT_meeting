@@ -2142,6 +2142,30 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     margin-right: auto;
   }
 
+
+  /* for SynBio Canada */
+  .organizer-profile2 {
+    flex: 0 0 30%; /* Adjust the percentage to control the number of columns */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  /* Add responsive behavior */
+  @media (max-width: 768px) {
+    .organizer-profile {
+      flex: 0 0 100%; /* Each profile takes full width on smaller screens */
+    }
+  }
+
+  .organizer-profile2 img {
+    width: 500px; /* Fixed width for the images */
+    height: 150px; /* Fixed height for the images to make them square */
+    object-fit: cover; /* This will ensure the images cover the area without stretching */
+    display: block; /* Centers image in the container */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   /* Style for social icons */
   .social-icons {
     margin-top: 10px;
@@ -2286,10 +2310,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <h1 id="bronze">Bronze</h1>
 <div class="organizers-container">
-<div class="organizer-profile">
-<img src="images/avatar.jpeg" />
+<div class="organizer-profile2">
+<img src="images/SynBio_Logo.png" />
 <h3>
-<a href="2" target="_blank">Sponsor 3</a>
+<a href="https://www.synbiocanada.org/" target="_blank">SynBio Canada</a>
 </h3>
 </div>
 </div>

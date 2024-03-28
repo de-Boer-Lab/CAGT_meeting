@@ -36,9 +36,9 @@ title: "Sponsors"
 # Bronze
 
 <div class="organizers-container">
-<div class="organizer-profile">
-  ![](images/avatar.jpeg)
-  <h3><a href="2" target="_blank">Sponsor 3</a></h3>
+<div class="organizer-profile2">
+  ![](images/SynBio_Logo.png)
+  <h3><a href="https://www.synbiocanada.org/" target="_blank">SynBio Canada</a></h3>
 </div>
 
 </div>
