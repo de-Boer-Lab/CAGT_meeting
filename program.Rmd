@@ -94,7 +94,7 @@ description:
       <td>13:45 - 14:45</td>
       <td class="session-title">Theme: Systems Biology<br>Keynote 4<br>Dr. Pulin Li<br>Whitehead Institute, MIT<br>(45 mins + 15 mins discussion)</td>
     </tr>
-    <tr class="oral2">
+    <tr class="oral4">
       <td>14:45 - 15:15</td>
       <td>Oral Presentation (30 mins - 1 slot)</td>
     </tr>
@@ -102,7 +102,7 @@ description:
       <td>15:15 - 15:30</td>
       <td>Coffee Break</td>
     </tr>
-    <tr class="oral2">
+    <tr class="oral4">
       <td>15:30 - 16:15</td>
       <td>Oral Presentation (45 mins - 3 slots)</td>
     </tr>
