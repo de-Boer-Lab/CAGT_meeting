@@ -110,5 +110,9 @@ description:
       <td>16:30 - 18:00</td>
       <td>Poster Session 2</td>
     </tr>
+    <tr class="food">
+      <td>18:30 - 20:30</td>
+      <td>Gala Dinner</td>
+    </tr>
   </table>
 </div>
