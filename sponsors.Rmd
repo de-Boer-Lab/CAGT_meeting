@@ -5,8 +5,8 @@ title: "Sponsors"
 # Platinum
 
 <div class="organizers-container">
-<div class="organizer-profile">
-  ![](images/sbme.jpg)
+<div class="organizer-profile2">
+  ![](images/sbme.png)
   <h3><a href="https://bme.ubc.ca/" target="_blank">SBME</a></h3>
 </div>
 
@@ -39,6 +39,10 @@ title: "Sponsors"
 <div class="organizer-profile2">
   ![](images/SynBio_Logo.png)
   <h3><a href="https://www.synbiocanada.org/" target="_blank">SynBio Canada</a></h3>
+</div>
+<div class="organizer-profile2">
+  ![](images/GBC.jpg)
+  <h3><a href="https://www.genomebc.ca/" target="_blank">Genome BC</a></h3>
 </div>
 
 </div>

@@ -34,7 +34,7 @@
 }
 
 
-/* for SynBio Canada */
+/* for Sponsors */
 .organizer-profile2 {
   flex: 0 0 30%; /* Adjust the percentage to control the number of columns */
   text-align: center;
@@ -49,9 +49,9 @@
 }
 
 .organizer-profile2 img {
-  width: 600px; /* Fixed width for the images */
-  height: 200px; /* Fixed height for the images to make them square */
-  object-fit: cover; /* This will ensure the images cover the area without stretching */
+  width: 400px; /* Fixed width for the images */
+  height: 100px; /* Fixed height for the images to make them square */
+  object-fit: contain; /* This will ensure the images cover the area without stretching */
   display: block; /* Centers image in the container */
   margin-left: auto;
   margin-right: auto;
