@@ -49,8 +49,8 @@
 }
 
 .organizer-profile2 img {
-  width: 400px; /* Fixed width for the images */
-  height: 100px; /* Fixed height for the images to make them square */
+  width: 300px; /* Fixed width for the images */
+  height: 120px; /* Fixed height for the images to make them square */
   object-fit: contain; /* This will ensure the images cover the area without stretching */
   display: block; /* Centers image in the container */
   margin-left: auto;
