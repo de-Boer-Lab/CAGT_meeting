@@ -100,7 +100,7 @@ description:
     </tr>
     <tr class="oral4">
       <td>14:45 - 15:15</td>
-      <td>Oral Presentation (2 slots)</td>
+      <td>Oral Presentation (1 slot)</td>
     </tr>
     <tr class="break">
       <td>15:15 - 15:30</td>
@@ -108,7 +108,7 @@ description:
     </tr>
     <tr class="oral4">
       <td>15:30 - 16:30</td>
-      <td>Oral Presentation (2 slots)</td>
+      <td>Oral Presentation (3 slots)</td>
     </tr>
     <tr class="poster">
       <td>16:30 - 18:00</td>
