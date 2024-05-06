@@ -44,7 +44,11 @@ title: "Sponsors"
   ![](images/GBC.jpg)
   <h3><a href="https://www.genomebc.ca/" target="_blank">Genome BC</a></h3>
 </div>
-
+</div>
+<div class="organizer-profile2">
+  ![](images/neb.png)
+  <h3><a href="https://www.neb.com/en" target="_blank">NEB</a></h3>
+</div>
 </div>
 
 
