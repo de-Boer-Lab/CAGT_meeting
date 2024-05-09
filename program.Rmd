@@ -11,7 +11,7 @@ description:
       <th>Time</th>
       <th>Event</th>
     </tr>
-    <tr class="misc">
+    <tr class="food">
       <td>8:00 - 9:00</td>
       <td>Registration and Breakfast</td>
     </tr>
@@ -19,33 +19,50 @@ description:
       <td>9:00 - 9:15</td>
       <td>Welcome address</td>
     </tr>
+     <tr class="keynote1">
+      <td></td>
+      <td class="session-title">Theme: Microbial Synthetic Biology</td>
+    </tr>
     <tr class="keynote1">
       <td>9:15 - 10:15</td>
-      <td class="session-title">Theme: Microbial Synthetic Biology<br>Keynote 1<br>Dr. Rebecca Shapiro<br>University of Guelph</td>
+      <td class="session-title">Keynote 1<br>Dr. Rebecca Shapiro<br>University of Guelph</td>
     </tr>
     <tr class="oral1">
       <td>10:15 -10:45</td>
-      <td>Oral Presentation (1 slot)</td>
+      <td>Drug Resistance Evolution in Yeast Harboring Synthetic Gene Circuits<br>-Daniel Charlebois</td>
     </tr>
     <tr class="break">
       <td>10:45 - 11:00</td>
       <td>Coffee Break</td>
     </tr>
     <tr class="oral1">
-      <td>11:00 - 12:00</td>
-      <td>Oral presentations (3 slots)</td>
+      <td>11:00 - 11:15</td>
+      <td>Kluyveromyces marxianus – A green cell factory for organic acid production<br>-Mackenzie Thornbury
+		</td>
+    </tr>
+    <tr class="oral1">
+      <td>11:20 - 11:35</td>
+      <td>Screening and characterization of bidirectional promoter in Saccharomyces cerevisiae<br>-Zimo Jin</td>
+    </tr>
+    <tr class="oral1">
+      <td>11:40 - 11:55</td>
+      <td>Methanivore: a comprehensive solution to landfill gas emissions through bacterial metabolic engineering<br>-Evelyn Chen</td>
     </tr>
     <tr class="food">
       <td>12:00 - 13:30</td>
       <td>Lunch</td>
     </tr>
     <tr class="keynote2">
+      <td></td>
+      <td class="session-title">Theme: Regenerative Medicine</td>
+    </tr>
+    <tr class="keynote2">
       <td>13:30 - 14:45</td>
-      <td class="session-title">Theme: Regenerative Medicine<br>Keynote 2<br>Dr. Ron Weiss<br>MIT</td>
+      <td class="session-title">Keynote 2<br>Dr. Ron Weiss<br>MIT</td>
     </tr>
     <tr class="oral2">
       <td>14:45 - 15:15</td>
-      <td>Oral Presentation (1 slot)</td>
+      <td>Engineering Collective Behavior in Stem Cell Driven Colonie<br>-Tiam Heydari</td>
     </tr>
     <tr class="break">
       <td>15:15 - 15:30</td>
@@ -53,14 +70,18 @@ description:
     </tr>
     <tr class="oral2">
       <td>15:30 - 15:45</td>
-      <td>Oral Presentation (1 slot)</td>
+      <td>A Synthetic Device to Monitor the Interaction between Human Embryonic Stem Cells<br>-Omar Bashth</td>
     </tr>
     <tr class="oral5">
-      <td>15:45 - 16:15</td>
-      <td><strong>Theme: Microbiome Engineering</strong><br>Oral Presentation (2 slots)</td>
+      <td>15:50 - 16:05</td>
+      <td><strong>Theme: Microbiome Engineering</strong><br>Engineered Saccharomyces boulardii: A Probiotic Approach for Combating Pathogen-Derived Gastrointestinal Diseases<br>-Laura Enekegho</td>
+    </tr>
+    <tr class="oral5">
+      <td>16:10 - 16:25</td>
+      <td>Genetic tools for the spatial characterization of gene expression in the commensal gut bacterium Bacteroides thetaiotaomicron<br>-Giselle McCallum</td>
     </tr>
     <tr class="poster">
-      <td>16:15 - 18:00</td>
+      <td>16:30 - 18:00</td>
       <td>Poster Session 1</td>
     </tr>
   </table>
@@ -74,44 +95,76 @@ description:
       <th>Time</th>
       <th>Event</th>
     </tr>
+    <tr class="food">
+      <td>8:00 - 9:15</td>
+      <td>Breakfast</td>
+    </tr>
     <tr class="keynote3">
-      <td>9:00 - 10:00</td>
-      <td class="session-title">Theme: Genome Engineering<br>Keynote 3<br>Dr. Leopald Parts<br>Wellcome Sanger Institute</td>
+      <td></td>
+      <td class="session-title">Theme: Genome Engineering</td>
+    </tr>
+    <tr class="keynote3">
+      <td>9:15 - 10:15</td>
+      <td class="session-title">Keynote 3<br>Dr. Leopald Parts<br>Wellcome Sanger Institute</td>
     </tr>
     <tr class="oral3">
-      <td>10:00 -10:30</td>
-      <td>Oral Presentation (2 slots)</td>
+      <td>10:15 - 10:30</td>
+      <td>PHYCUT: A multiguide CRISPR editing system for glycoengineering of Phaeodactylum tricornutum<br>-Emily struckless</td>
+    </tr>
+    <tr class="oral3">
+      <td>10:30 - 10:45</td>
+      <td>Surveying the Diversity of GIY-YIG Nuclease Domains for Gene Editing<br>-Kurt Loedige</td>
     </tr>
     <tr class="break">
-      <td>10:30 - 10:45</td>
+      <td>10:45 - 11:00</td>
       <td>Coffee Break</td>
     </tr>
     <tr class="oral3">
-      <td>10:45 -12:00</td>
-      <td>Oral presentations (2 slots)</td>
+      <td>11:00 - 11:30</td>
+      <td>Enzyme reaction cascades to screen and engineer oxidoreductases<br>-David Kwan</td>
+    </tr>
+    <tr class="oral3">
+      <td>11:30 - 12:00</td>
+      <td>Engineering elephant TP53 mutations<br>-Emil Karpinski</td>
     </tr>
     <tr class="food">
       <td>12:00 - 13:30</td>
       <td>Lunch</td>
     </tr>
     <tr class="keynote4">
+      <td></td>
+      <td class="session-title">Theme: Systems Biology</td>
+    </tr>
+    <tr class="keynote4">
       <td>13:30 - 14:45</td>
-      <td class="session-title">Theme: Systems Biology<br>Keynote 4<br>Dr. Pulin Li<br>Whitehead Institute, MIT</td>
+      <td class="session-title">Keynote 4<br>Dr. Pulin Li<br>Whitehead Institute, MIT</td>
     </tr>
     <tr class="oral4">
       <td>14:45 - 15:15</td>
-      <td>Oral Presentation (1 slot)</td>
+      <td>Exploring duplicated gene retention using single-cell imaging of protein dynamics<br>-Elena Kuzmin</td>
     </tr>
     <tr class="break">
       <td>15:15 - 15:30</td>
       <td>Coffee Break</td>
     </tr>
     <tr class="oral4">
-      <td>15:30 - 16:30</td>
-      <td>Oral Presentation (3 slots)</td>
+      <td>15:30 - 16:00</td>
+      <td>Environmental protein interaction dynamics at a proteome scale<br>-Dayag Sheykhkarimli</td>
+    </tr>
+    <tr class="oral4">
+      <td>16:00 - 16:15</td>
+      <td>Invisible heroes: Role of a non-catalytic auxiliary protein as a(n) (iso)flavonoid metabolic flux conductor<br>-Lee-Marie Raytek</td>
+    </tr>
+    <tr class="oral4">
+      <td>16:15 - 16:30</td>
+      <td>Linked RNAs – new tools for the in vitro selection of a model Origin of Life<br>-Hendrik Boog</td>
+    </tr>
+    <tr class="misc">
+      <td>16:30 - 16:45</td>
+      <td>Concluding Remarks</td>
     </tr>
     <tr class="poster">
-      <td>16:30 - 18:00</td>
+      <td>16:45 - 18:15</td>
       <td>Poster Session 2</td>
     </tr>
     <tr class="food">
