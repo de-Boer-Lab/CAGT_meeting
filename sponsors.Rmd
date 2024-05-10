@@ -2,26 +2,16 @@
 title: "Sponsors"
 ---
 
-# Platinum
+# Gold
 
 <div class="organizers-container">
 <div class="organizer-profile2">
   ![](images/sbme.png)
-  <h3><a href="https://bme.ubc.ca/" target="_blank">SBME</a></h3>
+  <h3><a href="https://bme.ubc.ca/" target="_blank">School of Biomedical Engineering, UBC</a></h3>
 </div>
 
 </div>
 
-
-# Gold
-
-<div class="organizers-container">
-<div class="organizer-profile">
-  ![](images/avatar.jpeg)
-  <h3><a href="" target="_blank">Sponsor 1</a></h3>
-</div>
-
-</div>
 
 # Silver
 
@@ -29,6 +19,14 @@ title: "Sponsors"
 <div class="organizer-profile2">
   ![](images/SCN.jpg)
   <h3><a href="https://stemcellnetwork.ca/" target="_blank">Stem Cell Network</a></h3>
+</div>
+<div class="organizer-profile2">
+  ![](images/novogene.png)
+  <h3><a href="https://www.novogene.com/us-en/" target="_blank">Novogene</a></h3>
+</div>
+<div class="organizer-profile2">
+  ![](images/maxcyte.jpg)
+  <h3><a href="https://maxcyte.com/" target="_blank">MaxCyte</a></h3>
 </div>
 
 </div>
@@ -48,6 +46,18 @@ title: "Sponsors"
 <div class="organizer-profile2">
   ![](images/neb.png)
   <h3><a href="https://www.neb.com/en" target="_blank">NEB</a></h3>
+</div>
+<div class="organizer-profile2">
+  ![](images/GSAT.webp)
+  <h3><a href="https://www.gsat.ubc.ca/" target="_blank">Genome Science and Technology, UBC</a></h3>
+</div>
+<div class="organizer-profile2">
+  ![](images/OntGen.png)
+  <h3><a href="https://www.ontariogenomics.ca/" target="_blank">Ontario Genomics</a></h3>
+</div>
+<div class="organizer-profile2">
+  ![](images/genomefoundry.png)
+  <h3><a href="https://www.concordia.ca/research/genome-foundry.html" target="_blank">Concordia Genome Foundry</a></h3>
 </div>
 </div>
 
