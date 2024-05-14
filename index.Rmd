@@ -23,6 +23,11 @@ site: distill::distill_website
 
 **SynBio6.0 (May 16-17, 2024)** aims to bring the research community together to celebrate Canadian progress in this exciting and fast-growing field. The goal of this event it to promote collaborations and the exchange of ideas between synthetic biology research groups in Canada. 
 
+<div class="center-text">
+  Find the conference abstract book <a href="path_to/SynBio Abstract Book.pdf"style="color: #133E67; font-weight: bold;"> here</a>.
+  
+</div>
+
 # Keynote Speakers
 
 <div class="organizers-container">
