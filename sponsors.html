@@ -2439,7 +2439,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   d-article > .image-article {
     width: 100%;
-    display: block;
+    display: inline-block;
     grid-column: 1/ -1;
     padding-top: 0;
   }
@@ -2482,9 +2482,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     top: 0;
     left: 0;
     width: 100%;
-    height: 60vh;
+    height: 10vh;
     background: rgba(255, 255, 255, 0.8); /* White overlay with 50% transparency */
     z-index: 1; /* Ensure the overlay is above the background */
+    padding-bottom:30%; /* Adjust the value for desired aspect ratio */
 
   }
 

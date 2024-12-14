@@ -8,30 +8,32 @@ site: distill::distill_website
 
 <style type="text/css">
 
-
-.d-title {
-  background-image: url("images/PNW_background.webp");
+d-article {
+  background-image: url("images/DNA_background2.png");
   background-size: cover;
   background-position: center; 
-  color: white;
-  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+  text-size: 2;
+  overflow: auto;
+  height: 70vh; /* Full viewport height */
   text-align: center; /* Center the text */
 }
 
 </style>
 
-<div class="image-article">
-  <div class="center-text">
+<div class="center-text" style="padding-top: 60px;">
+
  The **Pacific Northwest Advanced Omics Conference (PNWAOC)** aims to bring the research community within the Pacific Northwest region together to foster collaboration in advancing the field of synthetic genomics.The main focus of PNWAOC is to promote collaborations to address critical challenges in the field. Themes that will be covered in this conference includes:
-  </div>
-  
+ 
   <strong><ol style="text-align: center;">
-    <li>Synthetic Biology</li>
-    <li>Celluar engineering</li>
-    <li>Genomics</li>
-    <li>Machine learning and computational biology</li>
+      <li>Synthetic Biology</li>
+      <li>Celluar engineering</li>
+      <li>Genomics</li>
+      <li>Machine learning and computational biology</li>
   </ol></strong>
-  <div class="center-text" style ="padding-top: 0px;">
+  
+<br>
+
   The first iteration of this conference will be held at **The University of British Columbia** during the **Summer of 2025**. Stay Tuned for more updates!
-  We are also actively recruiting collaborators to help organize this conference. Please send us an email <a href="mailto:carl.deboer@ubc.ca">**here**</a>    if you interested! </div>
+  We are also actively recruiting collaborators to help organize this conference. Please send us an email <a href="mailto:carl.deboer@ubc.ca">**here**</a> if you interested! 
+  
 </div>

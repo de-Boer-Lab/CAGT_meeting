@@ -18,7 +18,7 @@ d-article > .center-text {
 
 d-article > .image-article {
   width: 100%;
-  display: block;
+  display: inline-block;
   grid-column: 1/ -1;
   padding-top: 0;
 }
