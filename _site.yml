@@ -1,21 +1,11 @@
-name: "Distill_website"
-title: "SynBio6.0"
+title: "PNWAOC"
+theme: theme.css
 description: 
 output_dir: "."
 navbar:
-  right:
+  left:
     - text: "Home"
       href: index.html
-    - text: "Program"
-      href: program.html
-    - text: "People"
-      href: people.html
-    - text: "Registration"
-      href: registration.html
-    - text: "Sponsors"
-      href: sponsors.html
-    - text: "Contact Us"
-      href: contact.html     
 
 output:
   distill::distill_article:
