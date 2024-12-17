@@ -1,7 +1,6 @@
 ---
-title: "PNWAOC"
+title: "Cascadia Advanced Genomic Technologies"
 description: |
-  **1st Annual Pacific Northwest Advanced Omics Conference**  
   Summer 2025, Vancouver, BC, Canada
 site: distill::distill_website
 ---
@@ -22,7 +21,7 @@ d-article {
 
 <div class="center-text" style="padding-top: 60px;">
 
- The **Pacific Northwest Advanced Omics Conference (PNWAOC)** aims to bring the research community within the Pacific Northwest region together to foster collaboration in advancing the field of synthetic genomics.The main focus of PNWAOC is to promote collaborations to address critical challenges in the field. Themes that will be covered in this conference includes:
+ The **Cascadia Advanced Genomic Technologies (CAGT) Meeting** aims to unite the research community across the Pacific Northwest to foster collaboration and drive innovation in mammalian genomics. This conference will spotlight cutting-edge advancements in genomic technologies while addressing critical challenges within the field. Themes that will be covered in this conference includes:
  
   <strong><ol style="text-align: center;">
       <li>Synthetic Biology</li>
@@ -33,7 +32,7 @@ d-article {
   
 <br>
 
-  The first iteration of this conference will be held at **The University of British Columbia** during the **Summer of 2025**. Stay Tuned for more updates!
-  We are also actively recruiting collaborators to help organize this conference. Please send us an email <a href="mailto:carl.deboer@ubc.ca">**here**</a> if you interested! 
+  The inaugural CAGT Meeting will take place at the **University of British Columbia** in the **Summer of 2025**. Stay Tuned for more updates!
+  We are also actively recruiting collaborators to help organize this conference. Please send us an email <a href="mailto:cagt.meeting@gmail.com">**here**</a> if you interested! 
   
 </div>
