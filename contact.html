@@ -21,7 +21,7 @@
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -32,7 +32,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -88,29 +88,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>CAGT: PNWAOC</title>
+  <title>CAGT: Contact Us</title>
 
-  <meta property="description" itemprop="description" content="**1st Annual Pacific Northwest Advanced Omics Conference**  &#10;Summer 2025, Vancouver, BC, Canada"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="CAGT: PNWAOC"/>
+  <meta property="og:title" content="CAGT: Contact Us"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="**1st Annual Pacific Northwest Advanced Omics Conference**  &#10;Summer 2025, Vancouver, BC, Canada"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="CAGT"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="CAGT: PNWAOC"/>
-  <meta property="twitter:description" content="**1st Annual Pacific Northwest Advanced Omics Conference**  &#10;Summer 2025, Vancouver, BC, Canada"/>
+  <meta property="twitter:title" content="CAGT: Contact Us"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["PNWAOC"]},{"type":"character","attributes":{},"value":["**1st Annual Pacific Northwest Advanced Omics Conference**  \nSummer 2025, Vancouver, BC, Canada"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title"]}},"value":[{"type":"character","attributes":{},"value":["Contact Us"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2431,8 +2428,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: white;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
     text-align: center; /* Center the text */
+    font-size: 37px; /* Adjust as needed */
+    
+    height: 210px; /* Adjust this value to match the desired height */
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
   }
-
+  d-article {
+    font-size: 22px; /* Adjust as needed */
+  }
   d-article > p,
   d-article > .center-text {
     width: 100%;
@@ -2444,12 +2448,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     width: 100%;
     display: inline-block;
     grid-column: 1/ -1;
-    padding-top: 0;
   }
 
-  d-article{
-    padding-top: 0; 
-  }
 
   ol {
     list-style-position: inside;
@@ -2723,7 +2723,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"PNWAOC","description":"**1st Annual Pacific Northwest Advanced Omics Conference**  \nSummer 2025, Vancouver, BC, Canada","authors":[]}
+{"title":"Contact Us","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2733,6 +2733,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-left">
 <a href="index.html" class="title">CAGT</a>
 <a href="index.html">Home</a>
+<a href="contact.html">Contact</a>
 </div>
 <div class="nav-right">
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
@@ -2744,24 +2745,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>PNWAOC</h1>
+<h1>Contact Us</h1>
 
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p><strong>1st Annual Pacific Northwest Advanced Omics Conference</strong><br />
-Summer 2025, Vancouver, BC, Canada</p></p>
+
 </div>
 
 
 <div class="d-article">
-<div class="layout-chunk" data-layout="l-body">
+<style type="text/css">
 
-</div>
+d-article {
+  background-image: url("images/DNA_background2.png");
+  background-size: cover;
+  background-position: center; 
+  text-size: 2;
+  overflow: auto;
+  height: 70vh; /* Full viewport height */
+  text-align: center; /* Center the text */
+}
+
 </style>
-<div class="image-article">
-<div class="center-text">
-
-</div>
+<p><img src="images/conf_logo.png" style= "padding-bottom:0;"></p>
+<div class="center-text" style="padding-top:0;">
+<p>We are also actively recruiting collaborators to help organize this conference. Please send us an email <a href="mailto:cagt.meeting@gmail.com"><strong>here</strong></a> if you interested!</p>
 </div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

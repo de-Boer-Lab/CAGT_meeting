@@ -21,7 +21,7 @@
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -32,7 +32,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -2428,8 +2428,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: white;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
     text-align: center; /* Center the text */
+    font-size: 37px; /* Adjust as needed */
+    
+    height: 210px; /* Adjust this value to match the desired height */
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
   }
-
+  d-article {
+    font-size: 22px; /* Adjust as needed */
+  }
   d-article > p,
   d-article > .center-text {
     width: 100%;
@@ -2441,12 +2448,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     width: 100%;
     display: inline-block;
     grid-column: 1/ -1;
-    padding-top: 0;
   }
 
-  d-article{
-    padding-top: 0; 
-  }
 
   ol {
     list-style-position: inside;
@@ -2730,6 +2733,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-left">
 <a href="index.html" class="title">CAGT</a>
 <a href="index.html">Home</a>
+<a href="contact.html">Contact</a>
 </div>
 <div class="nav-right">
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>

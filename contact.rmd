@@ -1,21 +1,25 @@
 ---
-title: "PNWAOC"
-description: |
-  **1st Annual Pacific Northwest Advanced Omics Conference**  
-  Summer 2025, Vancouver, BC, Canada
+title: "Contact Us"
 ---
 
+<style type="text/css">
 
-```{r, echo=FALSE}
-#knitr::include_graphics("images/synbio.png")
-```
+d-article {
+  background-image: url("images/DNA_background2.png");
+  background-size: cover;
+  background-position: center; 
+  text-size: 2;
+  overflow: auto;
+  height: 70vh; /* Full viewport height */
+  text-align: center; /* Center the text */
+}
 
 </style>
 
-<div class="image-article">
+<img src="images/conf_logo.png" style= "padding-bottom:0;">
 
-  <div class="center-text">
+<div class="center-text" style="padding-top:0;">
 
+We are also actively recruiting collaborators to help organize this conference. Please send us an email <a href="mailto:cagt.meeting@gmail.com">**here**</a> if you interested! 
 
-  </div> 
 </div>
