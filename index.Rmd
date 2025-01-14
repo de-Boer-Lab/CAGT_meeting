@@ -11,7 +11,6 @@ d-article {
   background-image: url("images/DNA_background2.png");
   background-size: cover;
   background-position: center; 
-  text-size: 2;
   overflow: auto;
   height: 70vh; /* Full viewport height */
   text-align: center; /* Center the text */
