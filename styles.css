@@ -141,13 +141,29 @@ a {
 }
 
 .organizer-profile img {
-  width: 150px; /* Fixed width for the images */
-  height: 150px; /* Fixed height for the images to make them square */
+  width: 220px; /* Fixed width for the images */
+  height: 220px; /* Fixed height for the images to make them square */
   border-radius: 50%; /* This will make them circular */
   object-fit: cover; /* This will ensure the images cover the area without stretching */
   display: block; /* Centers image in the container */
   margin-left: auto;
   margin-right: auto;
+}
+
+/* for keynote profiles */
+
+.organizer-profile.keynote-profile {
+  display: block; /* Enables flexbox layout */
+  width: 100%; /* Makes the container span the full width */
+}
+
+.organizer-profile.keynote-profile > p.keynote-profile {
+  width: auto; /* Allows the paragraph to take its natural width */
+  flex-shrink: 0; /* Prevents the paragraph from shrinking */
+}
+
+.organizer-profile.keynote-profile > .keynote-profile {
+  flex: 1; /* Allows the right column to grow and fill the remaining space */
 }
 
 
@@ -185,12 +201,11 @@ a {
 }
 
 
-
 /* register-button */
 .register-button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #007bff; /* Bootstrap primary blue for example */
+  background-color: #1c5c36; /* Bootstrap primary blue for example */
   color: white;
   text-align: center;
   text-decoration: none;
@@ -204,40 +219,8 @@ a {
   cursor: pointer;
 }
 
-
-/* contact form */
-
-input[type=text], select, textarea {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
-  border: 1px solid #ccc; /* Gray border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
-  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
-}
-
-/* Style the submit button with a specific background color etc */
-input[type=submit] {
-  background-color: #04AA6D;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-/* When moving the mouse over the submit button, add a darker green color */
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-/* Add a background color and some padding around the form */
-.form-container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
+table.pandoc-table td {
+  font-size: 20px;
 }
 
 /* for program schedule */

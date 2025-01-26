@@ -1,31 +1,30 @@
 ---
 title: "Registration"
 ---
-Join us for Synbio 6.0 by securing your spot today. The registration fee of **210 CAD** provides you with full access to the conference sessions, materials, networking and meals.
+<div class="center-text">
 
-::: center-text
-<h3>Important Dates</h3>
+Join us for CAGT meeting by securing your spot today. The registration is free but the spots are limited! Register  **<span style="color: #2E8B57; text-decoration: underline;">[HERE](https://forms.gle/BsQhRsxxuVzMMWci7)</span>**
 
-|                                  |             Date             |
-|----------------------------------|:----------------------------:|
-| **Registration Opens**           |    **February 12th 2024**    |
-| **Registration Ends**            |       **May 9th 2024**       |
-| **Abstract Submission Deadline** |     **April 26th 2024**      |
-| **Conference**                   | **May 16th - May 17th 2024** |
-:::
-
-
-## Abstract Submission:
-
-<div class="center-text" style="font-size: 30px;">
-
-Abstract submission is now closed
 </div>
 
-## Accomodation:
+<div class="center-text">
 
-Attendees can reserve their stay on UBC campus **[here](https://suitesatubc.com/)**. Rooms on campus fill up faster during this season, so we recommend reserving your accomodation as soon as you register.
+<h3 "style = 20px;">Important Dates</h3>
 
-## Cancellation Policy
+|                                  |             **Date**             |
+|:----------------------------------:|:----------------------------:|
+| **Registration Opens**           |    **February 3rd 2025**    |
+| **Registration Ends**            |       **June 1st 2025**       |
+| **Abstract Submission Deadline** |     **April 30th 2025**      |
+| **Conference**                   | **June 19th - June 20th 2025** |
 
-Attendees can get a full refund if they cancel over 60 days before the conference. Cancellations made between 30 to 60 days prior are eligible for a 50% refund. No refunds are provided for cancellations within 30 days of the event. All cancellation refunds incur a 35 CAD administrative charge. 
+</div>
+
+
+<div class="center-text">
+
+## Accomodation
+
+Attendees can reserve their stay on UBC campus **[here](https://suitesatubc.com/)**. Rooms on campus fill up faster during this season, so we recommend reserving your accommodation as soon as you register.
+
+</div>

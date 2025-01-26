@@ -458,8 +458,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
 
   <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
   <script src="site_libs/autocomplete-0.37.1/autocomplete.min.js"></script>
   <script src="site_libs/fuse-6.4.1/fuse.min.js"></script>
@@ -2411,7 +2411,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2431,7 +2431,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: white;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
     text-align: center; /* Center the text */
-    font-size: 37px; /* Adjust as needed */
+    text-size: 3; /* Adjust as needed */
     
     height: 210px; /* Adjust this value to match the desired height */
     justify-content: center; /* Center the content horizontally */
@@ -2455,7 +2455,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   ol {
-    list-style-position: inside;
+    list-style-position: iide;
   }
 
   a {
@@ -2565,13 +2565,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   .organizer-profile img {
-    width: 150px; /* Fixed width for the images */
-    height: 150px; /* Fixed height for the images to make them square */
+    width: 220px; /* Fixed width for the images */
+    height: 220px; /* Fixed height for the images to make them square */
     border-radius: 50%; /* This will make them circular */
     object-fit: cover; /* This will ensure the images cover the area without stretching */
     display: block; /* Centers image in the container */
     margin-left: auto;
     margin-right: auto;
+  }
+
+  /* for keynote profiles */
+
+  .organizer-profile.keynote-profile {
+    display: block; /* Enables flexbox layout */
+    width: 100%; /* Makes the container span the full width */
+  }
+
+  .organizer-profile.keynote-profile > p.keynote-profile {
+    width: auto; /* Allows the paragraph to take its natural width */
+    flex-shrink: 0; /* Prevents the paragraph from shrinking */
+  }
+
+  .organizer-profile.keynote-profile > .keynote-profile {
+    flex: 1; /* Allows the right column to grow and fill the remaining space */
   }
 
 
@@ -2609,12 +2625,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
 
-
   /* register-button */
   .register-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff; /* Bootstrap primary blue for example */
+    background-color: #1c5c36; /* Bootstrap primary blue for example */
     color: white;
     text-align: center;
     text-decoration: none;
@@ -2628,40 +2643,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     cursor: pointer;
   }
 
-
-  /* contact form */
-
-  input[type=text], select, textarea {
-    width: 100%; /* Full width */
-    padding: 12px; /* Some padding */ 
-    border: 1px solid #ccc; /* Gray border */
-    border-radius: 4px; /* Rounded borders */
-    box-sizing: border-box; /* Make sure that padding and width stays in place */
-    margin-top: 6px; /* Add a top margin */
-    margin-bottom: 16px; /* Bottom margin */
-    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
-  }
-
-  /* Style the submit button with a specific background color etc */
-  input[type=submit] {
-    background-color: #04AA6D;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-
-  /* When moving the mouse over the submit button, add a darker green color */
-  input[type=submit]:hover {
-    background-color: #45a049;
-  }
-
-  /* Add a background color and some padding around the form */
-  .form-container {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
+  table.pandoc-table td {
+    font-size: 20px;
   }
 
   /* for program schedule */
@@ -2736,6 +2719,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-left">
 <a href="index.html" class="title">CAGT</a>
 <a href="index.html">Home</a>
+<a href="registration.html">Registration</a>
 <a href="contact.html">Contact</a>
 </div>
 <div class="nav-right">
@@ -2763,7 +2747,6 @@ d-article {
   background-image: url("images/DNA_background2.png");
   background-size: cover;
   background-position: center; 
-  text-size: 2;
   overflow: auto;
   height: 70vh; /* Full viewport height */
   text-align: center; /* Center the text */
@@ -2773,7 +2756,7 @@ d-article {
 <div class="center-text" style="padding-top: 60px;">
 <p>The <strong>Cascadia Advanced Genomic Technologies (CAGT) Meeting</strong> aims to unite the research community across the Pacific Northwest to foster collaboration and drive innovation in mammalian genomics. This conference will spotlight cutting-edge advancements in genomic technologies while addressing critical challenges within the field. Themes that will be covered in this conference includes:</p>
 <strong>
-<ol style="text-align: center;">
+<ol style="list-style-position: inside;">
 <li>
 Synthetic Biology
 </li>
@@ -2789,9 +2772,28 @@ Machine learning and computational biology
 </ol>
 <p></strong></p>
 <p><br></p>
-<p>The inaugural CAGT Meeting will take place at the <strong>University of British Columbia</strong> on <strong>June 19-20</strong>. Stay Tuned for more updates!</p>
+<p>The inaugural CAGT Meeting will take place at the <strong>University of British Columbia</strong> on <strong>June 19-20</strong>. Registration is now open!</p>
+<p><a href="registration.html" class="register-button">Register and Present →</a></p>
+</div>
+<section id="keynote-speaker" class="center-text">
+<h2>Keynote Speaker</h2>
+<div class="organizer-profile keynote-profile">
+<p class="keynote-profile">
+<img src="images/Calin.png" />
+<a href="https://www.plesalab.org/" target="_blank" style="font-size: 30px; font-weight: bold;">Calin Plesa</a>
+<br>
+Assistant Professor of Bioengineering,
+<br>
+University of Oregon
+</p>
+<p class="keynote-profile">
+Calin Plesa is an Assistant Professor in the Dept. of Bioengineering at the Phil and Penny Knight Campus for Accelerating Scientific Impact at the University of Oregon. He received a BASc in Engineering Physics from Simon Fraser University in Canada, MSc in Nanoscience from Chalmers University of Technology, and a PhD from Delft University of Technology in Bionanoscience, studying solid state nanopores. As an HFSP Fellow in the Kosuri lab at UCLA he developed DropSynth, a low-cost scalable method to synthesize thousands of genes. Calin started his lab at the University of Oregon in 2019 and has been developing methods to study and engineer biological systems at scale. He has been the recipient of a CASI award from the Burroughs Wellcome Fund, as well as a New Innovator Award from the NIH.
+</div>
+</div>
 </div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+</div>
+</section>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
