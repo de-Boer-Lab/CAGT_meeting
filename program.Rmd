@@ -87,7 +87,7 @@ description:
     </tr>
     <tr class="keynote1" style="font-weight: bold;">
       <td>9:00 - 9:40</td>
-      <td>Keynote<br>- Cailin Plesa</td>
+      <td>Keynote<br>- Calin Plesa</td>
     </tr>
     <tr class="oral1">
       <td>9:40 - 10:10</td>
