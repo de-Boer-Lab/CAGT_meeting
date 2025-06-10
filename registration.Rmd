@@ -3,7 +3,7 @@ title: "Registration"
 ---
 <div class="center-text">
 
-Join us at the CAGT meeting by securing your spot today. The registration is free but the spots are limited! Register  **<span style="color: #2E8B57; text-decoration: underline;">[HERE](https://forms.gle/BsQhRsxxuVzMMWci7)</span>**
+Registration is now closed
 
 </div>
 
