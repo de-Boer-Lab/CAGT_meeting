@@ -19,6 +19,6 @@ d-article {
 
 <div class="center-text" style="padding-top:0;">
 
-We are also actively recruiting collaborators to help organize this conference. Please send us an email <a href="mailto:cagt.meeting@gmail.com">**here**</a> if you interested! 
+Please send us an email <a href="mailto:cagt.meeting@gmail.com">**here**</a> if you have any queries! 
 
 </div>
