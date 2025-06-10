@@ -3,10 +3,10 @@ title: "Program"
 description: 
 ---
 
-<!-- <div class="center-text"> -->
-<!--   Find the conference abstract book <a href="SynBio Abstract Book.pdf"style="color: #133E67; font-weight: bold;"> here</a>. -->
+<div class="center-text">
+  Find the conference abstract book <a href="CAGT Abstract book.pdf"style="color: #133E67; font-weight: bold;"> here</a>.
 
-<!-- </div> -->
+</div>
 
 <h2>Day 1 - June 19th</h2>
 <div class="day-planner">

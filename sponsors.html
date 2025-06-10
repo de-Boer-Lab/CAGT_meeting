@@ -2589,24 +2589,32 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   /* for Sponsors */
+  /* for Sponsors */
   .organizer-profile2 {
-    flex: 0 0 30%; /* Adjust the percentage to control the number of columns */
+    flex: 0 0 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Push name link to bottom */
+    align-items: center;
     text-align: center;
     margin-bottom: 20px;
+    font-size: 10px;
+    height: 220px; /* Fixed height ensures consistent alignment */
   }
 
-  /* Add responsive behavior */
+  /* Responsive override */
   @media (max-width: 768px) {
-    .organizer-profile {
-      flex: 0 0 100%; /* Each profile takes full width on smaller screens */
+    .organizer-profile2 {
+      flex: 0 0 100%;
+      height: auto; /* Let it expand naturally on small screens */
     }
   }
 
   .organizer-profile2 img {
-    width: 280px; /* Fixed width for the images */
-    height: 120px; /* Fixed height for the images to make them square */
-    object-fit: contain; 
-    display: block; /* Centers image in the container */
+    width: 280px;
+    height: 160px;
+    object-fit: contain;
+    display: block;
     margin-left: auto;
     margin-right: auto;
   }
@@ -2718,6 +2726,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="index.html">Home</a>
 <a href="registration.html">Registration</a>
 <a href="program.html">Program</a>
+<a href="sponsors.html">Sponsors</a>
 <a href="contact.html">Contact</a>
 </div>
 <div class="nav-right">
@@ -2739,73 +2748,37 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h1 id="gold">Gold</h1>
 <div class="organizers-container">
+<div class="organizer-profile2">
+<img src="images/czi.webp" />
+<h3>
+<a href="https://chanzuckerberg.com/" target="_blank">Chan Zuckerberg Initiative</a>
+</h3>
+</div>
 <div class="organizer-profile2">
 <img src="images/sbme.png" />
 <h3>
 <a href="https://bme.ubc.ca/" target="_blank">School of Biomedical Engineering, UBC</a>
 </h3>
 </div>
+<div class="organizer-profile2">
+<img src="images/bbi.jpg" />
+<h3>
+<a href="https://brotmanbaty.org/" target="_blank">Brotman Baty Institute</a>
+</h3>
 </div>
-<h1 id="silver">Silver</h1>
+</div>
 <div class="organizers-container">
 <div class="organizer-profile2">
-<img src="images/SCN.jpg" />
-<h3>
-<a href="https://stemcellnetwork.ca/" target="_blank">Stem Cell Network</a>
-</h3>
-</div>
-<div class="organizer-profile2">
-<img src="images/novogene.png" />
-<h3>
-<a href="https://www.novogene.com/us-en/" target="_blank">Novogene</a>
-</h3>
-</div>
-<div class="organizer-profile2">
-<img src="images/maxcyte.jpg" />
-<h3>
-<a href="https://maxcyte.com/" target="_blank">MaxCyte</a>
-</h3>
-</div>
-</div>
-<h1 id="bronze">Bronze</h1>
-<div class="organizers-container">
-<div class="organizer-profile2">
-<img src="images/SynBio_Logo.png" />
-<h3>
-<a href="https://www.synbiocanada.org/" target="_blank">SynBio Canada</a>
-</h3>
-</div>
-<div class="organizer-profile2">
-<img src="images/GBC.jpg" />
+<img src="images/genomeBC.png" />
 <h3>
 <a href="https://www.genomebc.ca/" target="_blank">Genome BC</a>
 </h3>
 </div>
-</div>
 <div class="organizer-profile2">
-<img src="images/neb.png" />
-<h3>
-<a href="https://www.neb.com/en" target="_blank">NEB</a>
-</h3>
-</div>
-<div class="organizer-profile2">
-<img src="images/GSAT.webp" />
+<img src="images/gsat.png" />
 <h3>
 <a href="https://www.gsat.ubc.ca/" target="_blank">Genome Science and Technology, UBC</a>
-</h3>
-</div>
-<div class="organizer-profile2">
-<img src="images/OntGen.png" />
-<h3>
-<a href="https://www.ontariogenomics.ca/" target="_blank">Ontario Genomics</a>
-</h3>
-</div>
-<div class="organizer-profile2">
-<img src="images/genomefoundry.png" />
-<h3>
-<a href="https://www.concordia.ca/research/genome-foundry.html" target="_blank">Concordia Genome Foundry</a>
 </h3>
 </div>
 </div>

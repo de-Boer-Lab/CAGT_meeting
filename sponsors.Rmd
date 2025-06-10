@@ -2,63 +2,33 @@
 title: "Sponsors"
 ---
 
-# Gold
-
 <div class="organizers-container">
+<div class="organizer-profile2">
+  ![](images/czi.webp)
+  <h3><a href="https://chanzuckerberg.com/" target="_blank">Chan Zuckerberg Initiative</a></h3>
+</div>
+
 <div class="organizer-profile2">
   ![](images/sbme.png)
   <h3><a href="https://bme.ubc.ca/" target="_blank">School of Biomedical Engineering, UBC</a></h3>
 </div>
-
+<div class="organizer-profile2">
+  ![](images/bbi.jpg)
+  <h3><a href="https://brotmanbaty.org/" target="_blank">Brotman Baty Institute</a></h3>
 </div>
-
-
-# Silver
+</div>
 
 <div class="organizers-container">
 <div class="organizer-profile2">
-  ![](images/SCN.jpg)
-  <h3><a href="https://stemcellnetwork.ca/" target="_blank">Stem Cell Network</a></h3>
-</div>
-<div class="organizer-profile2">
-  ![](images/novogene.png)
-  <h3><a href="https://www.novogene.com/us-en/" target="_blank">Novogene</a></h3>
-</div>
-<div class="organizer-profile2">
-  ![](images/maxcyte.jpg)
-  <h3><a href="https://maxcyte.com/" target="_blank">MaxCyte</a></h3>
-</div>
-
-</div>
-
-# Bronze
-
-<div class="organizers-container">
-<div class="organizer-profile2">
-  ![](images/SynBio_Logo.png)
-  <h3><a href="https://www.synbiocanada.org/" target="_blank">SynBio Canada</a></h3>
-</div>
-<div class="organizer-profile2">
-  ![](images/GBC.jpg)
+  ![](images/genomeBC.png)
   <h3><a href="https://www.genomebc.ca/" target="_blank">Genome BC</a></h3>
 </div>
-</div>
+
 <div class="organizer-profile2">
-  ![](images/neb.png)
-  <h3><a href="https://www.neb.com/en" target="_blank">NEB</a></h3>
-</div>
-<div class="organizer-profile2">
-  ![](images/GSAT.webp)
+  ![](images/gsat.png)
   <h3><a href="https://www.gsat.ubc.ca/" target="_blank">Genome Science and Technology, UBC</a></h3>
 </div>
-<div class="organizer-profile2">
-  ![](images/OntGen.png)
-  <h3><a href="https://www.ontariogenomics.ca/" target="_blank">Ontario Genomics</a></h3>
-</div>
-<div class="organizer-profile2">
-  ![](images/genomefoundry.png)
-  <h3><a href="https://www.concordia.ca/research/genome-foundry.html" target="_blank">Concordia Genome Foundry</a></h3>
-</div>
+
 </div>
 
 
