@@ -6,12 +6,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Registration"
-      href: registration.html
-    - text: "Program"
-      href: program.html
+    # - text: "Registration"
+    #   href: registration.html
+    # - text: "Program"
+    #   href: program.html
     - text: "Sponsors"
       href: sponsors.html
+    - text: "Gallery 2025"
+      href: gallery.html
     - text: "Contact"
       href: contact.html
 

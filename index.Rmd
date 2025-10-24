@@ -31,9 +31,9 @@ d-article {
   
 <br>
 
-  The inaugural CAGT Meeting will take place at the **University of British Columbia** on **June 19-20**. Registration is now open!
-  
-  <a href="registration.html" class="register-button">Register and Present →</a>
+  <!-- The inaugural CAGT Meeting will take place at the **University of British Columbia** on **June 19-20**. Registration is now open! -->
+
+  <!-- <a href="registration.html" class="register-button">Register and Present →</a> -->
   
 </div>
 
